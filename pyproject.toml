@@ -5,3 +5,4 @@ description = "Build a Claude Code–like CLI coding agent from scratch."
 requires-python = ">=3.10"
 # clarify the control flow
 # keep defaults in sync with the manifest
+# drop an unused branch
